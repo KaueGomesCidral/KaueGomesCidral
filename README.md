@@ -1,14 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Oii!+Eu+sou+o+Kaue+Gomes+Cidral+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-
-<div>
-  <a href="https://beacons.ai/KaueGomesCidral">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueGomesCidral&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueGomesCidral&layout=compact&langs_count=16&theme=great-gatsby"/>
-  </a>
-</div>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaue-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -35,20 +26,11 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Nexdom" src="https://media.licdn.com/dms/image/v2/D4D0BAQG3qNs9wLBhjw/company-logo_200_200/company-logo_200_200/0/1728557565640/nexdomhealthtech_logo?e=2147483647&v=beta&t=QSLMv7xOX1RfTtuC0MFQ1H6kE2MRJZxvNU3IAPAPiw8"/>](https://nexdom.tec.br/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/D4D0BAQG3qNs9wLBhjw/company-logo_200_200/company-logo_200_200/0/1728557565640/nexdomhealthtech_logo?e=2147483647&v=beta&t=QSLMv7xOX1RfTtuC0MFQ1H6kE2MRJZxvNU3IAPAPiw8"/>](https://rocketseat.com.br/)
-
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Frot-end Developer (Apprentice)** \
+[**Nexdom**](https://nexdom.tec.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
