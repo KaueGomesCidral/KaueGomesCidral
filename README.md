@@ -37,5 +37,5 @@
   ![snake gif](https://github.com/KaueGomesCidral/KaueGomesCidral/blob/output/github-contribution-grid-snake.gif)
   
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Oi+me+chamo+Kaue+Gomes+Cidral" alt="Typing SVG" /></a>
   
