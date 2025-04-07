@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Oii!+Eu+sou+o+Kaue+Gomes+Cidral+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
--💻Estou em busca de me aperfeiçoar na área da programação em geral
--🧩Amo desafios que fazem eu ser uma pessoa melhor
+-💻Estou em busca de me aperfeiçoar na área da programação em geral<br>
+-🧩Amo desafios que fazem eu ser uma pessoa melhor<br>
 -👥Sou uma pessoa super comunicativa que adora contatos interpessoais
 
 ### Experiência de trabalho
