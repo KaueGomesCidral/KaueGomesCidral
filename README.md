@@ -21,7 +21,7 @@ Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
 **Frot-end Developer (Apprentice)** \
 [**Nexdom**](https://nexdom.tec.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
-Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
+Projetos em destaque: [Site](https://sesuite.softexpert.com/softexpert/workspace?page=home)
 <br/>
 
 <div style="display: inline_block"><br>
