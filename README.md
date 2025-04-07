@@ -1,5 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Oii!+Eu+sou+o+Kaue+Gomes+Cidral+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
+-💻Estou em busca de me aperfeiçoar na área da programação em geral
+-🧩Amo desafios que fazem eu ser uma pessoa melhor
+-👥Sou uma pessoa super comunicativa que adora contatos interpessoais
 
 ### Experiência de trabalho
 
@@ -21,8 +24,6 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
 Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
 <br/>
 
-Por favor, encontre-me no [LinkedIn](www.linkedin.com/in/kaue-gomes-cidral) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaue-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -41,7 +42,7 @@ Por favor, encontre-me no [LinkedIn](www.linkedin.com/in/kaue-gomes-cidral) para
   <a href="mailto:kauegomescidral@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://www.linkedin.com/in/kaue-gomes-cidral-63277525a" target="_blank">
+  <a href="www.linkedin.com/in/kaue-gomes-cidral" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 
