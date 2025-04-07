@@ -1,8 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Oii!+Eu+sou+o+Kaue+Gomes+Cidral+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-- 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estudando Programação no geral
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://beacons.ai/KaueGomesCidral">
@@ -46,7 +43,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `Sa
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/D4D0BAQG3qNs9wLBhjw/company-logo_200_200/company-logo_200_200/0/1728557565640/nexdomhealthtech_logo?e=2147483647&v=beta&t=QSLMv7xOX1RfTtuC0MFQ1H6kE2MRJZxvNU3IAPAPiw8"/>](https://rocketseat.com.br/)
 
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
