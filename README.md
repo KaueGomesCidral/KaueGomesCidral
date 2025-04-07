@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Oii!+Eu+sou+o+Kaue+Gomes+Cidral+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
-
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -14,7 +13,7 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
 Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://tiinside.com.br/wp-content/uploads/2025/02/unnamed-3-png.webp"/>](https://www.softexpert.com/pt-BR/)
+[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GGw5bU8b9Bhq-_srwX2ogZ_ym1FqK8StXg&s"/>](https://www.softexpert.com/pt-BR/)
 
 **Consultant** \
 [**SoftExpert**](https://www.softexpert.com/pt-BR/) • Contract \
@@ -22,8 +21,7 @@ Linguagens & Tecnologias: `MySql`, `Postgree`\
 Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
 <br/>
 <br/>
-  
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
