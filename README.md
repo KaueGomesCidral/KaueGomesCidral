@@ -1,5 +1,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Oii!+Eu+sou+o+Kaue+Gomes+Cidral+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
+
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Nexdom" src="https://media.licdn.com/dms/image/v2/D4D0BAQG3qNs9wLBhjw/company-logo_200_200/company-logo_200_200/0/1728557565640/nexdomhealthtech_logo?e=2147483647&v=beta&t=QSLMv7xOX1RfTtuC0MFQ1H6kE2MRJZxvNU3IAPAPiw8"/>](https://nexdom.tec.br/)
+
+**Frot-end Developer (Apprentice)** \
+[**Nexdom**](https://nexdom.tec.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
+Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://tiinside.com.br/wp-content/uploads/2025/02/unnamed-3-png.webp"/>](https://www.softexpert.com/pt-BR/)
+
+**Consultant** \
+[**SoftExpert**](https://www.softexpert.com/pt-BR/) • Contract \
+Linguagens & Tecnologias: `MySql`, `Postgree`\
+Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
+<br/>
+<br/>
+  
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaue-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -21,27 +46,5 @@
   <a href="https://www.linkedin.com/in/kaue-gomes-cidral-63277525a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
-
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Nexdom" src="https://media.licdn.com/dms/image/v2/D4D0BAQG3qNs9wLBhjw/company-logo_200_200/company-logo_200_200/0/1728557565640/nexdomhealthtech_logo?e=2147483647&v=beta&t=QSLMv7xOX1RfTtuC0MFQ1H6kE2MRJZxvNU3IAPAPiw8"/>](https://nexdom.tec.br/)
-
-**Frot-end Developer (Apprentice)** \
-[**Nexdom**](https://nexdom.tec.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
-  
-</div>
 
   
