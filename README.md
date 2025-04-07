@@ -1,5 +1,5 @@
-## Oii! Eu sou o Kaue Gomes Cidral👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&width=435&lines=Oii!+me+chamo+Kaue+Gomes+Cidral+👋" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontes+Proggy&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Oii!+Eu+sou+o+Kaue+Gomes+Cidral+👋" alt="Typing SVG" /></a>
+
 - 🔭 Hoje estou trabalhando com front-end
 - 🌱 Estudando Programação no geral
 - 😄 Pronouns: ele/dele
