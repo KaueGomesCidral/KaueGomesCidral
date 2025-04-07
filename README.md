@@ -13,15 +13,13 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
 Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GGw5bU8b9Bhq-_srwX2ogZ_ym1FqK8StXg&s"/>](https://www.softexpert.com/pt-BR/)
+[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkei--xyL2dn-3Olz-3xzMIovyR5tJyhw08Y5bOCeGB9idpNvtWprsqRKmmUhRjH3rWA&usqp=CAU"/>](https://www.softexpert.com/pt-BR/)
 
 **Consultant** \
 [**SoftExpert**](https://www.softexpert.com/pt-BR/) • Contract \
 Linguagens & Tecnologias: `MySql`, `Postgree`\
 Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
 <br/>
-<br/>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
