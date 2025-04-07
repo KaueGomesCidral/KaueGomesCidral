@@ -5,6 +5,14 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkei--xyL2dn-3Olz-3xzMIovyR5tJyhw08Y5bOCeGB9idpNvtWprsqRKmmUhRjH3rWA&usqp=CAU"/>](https://www.softexpert.com/pt-BR/)
+
+**Consultant** \
+[**SoftExpert**](https://www.softexpert.com/pt-BR/) • Contract \
+Linguagens & Tecnologias: `MySql`, `Postgree`\
+Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Nexdom" src="https://media.licdn.com/dms/image/v2/D4D0BAQG3qNs9wLBhjw/company-logo_200_200/company-logo_200_200/0/1728557565640/nexdomhealthtech_logo?e=2147483647&v=beta&t=QSLMv7xOX1RfTtuC0MFQ1H6kE2MRJZxvNU3IAPAPiw8"/>](https://nexdom.tec.br/)
 
 **Frot-end Developer (Apprentice)** \
@@ -13,13 +21,7 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `Vue.js`,`python`,`MySql`\
 Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkei--xyL2dn-3Olz-3xzMIovyR5tJyhw08Y5bOCeGB9idpNvtWprsqRKmmUhRjH3rWA&usqp=CAU"/>](https://www.softexpert.com/pt-BR/)
-
-**Consultant** \
-[**SoftExpert**](https://www.softexpert.com/pt-BR/) • Contract \
-Linguagens & Tecnologias: `MySql`, `Postgree`\
-Projetos em destaque: [Site](https://sgusuite-prd.sgusuite.com.br/login)
-<br/>
+Por favor, encontre-me no [LinkedIn](www.linkedin.com/in/kaue-gomes-cidral) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
